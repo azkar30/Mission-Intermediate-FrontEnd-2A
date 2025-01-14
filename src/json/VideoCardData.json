@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "category": "Pemasaran",
+    "img": "thumbnail/video-thumb-1.jpg",
+    "profile": "thumbnail/profile-1.png",
+    "name": "Big 4 Auditor Financial Analyst",
+    "description": "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan  kurikulum terbaik",
+    "userName": "Jenna Ortega",
+    "userRole": "Senior Accountant di Gojek",
+    "rating": 3.5,
+    "price": 300000
+  },
+  {
+    "id": 2,
+    "category": "Desain",
+    "img": "thumbnail/video-thumb-2.jpg",
+    "profile": "thumbnail/profile-2.png",
+    "name": "Big 4 Auditor Financial Analyst",
+    "description": "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan  kurikulum terbaik",
+    "userName": "Jenna Ortega",
+    "userRole": "Senior Accountant di Gojek",
+    "rating": 3.5,
+    "price": 300000
+  },
+  {
+    "id": 3,
+    "category": "Pengembangan Diri",
+    "img": "thumbnail/video-thumb-3.jpg",
+    "profile": "thumbnail/profile-3.png",
+    "name": "Big 4 Auditor Financial Analyst",
+    "description": "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan  kurikulum terbaik",
+    "userName": "Jenna Ortega",
+    "userRole": "Senior Accountant di Gojek",
+    "rating": 3.5,
+    "price": 300000
+  },
+  {
+    "id": 4,
+    "category": "Pengembangan Diri",
+    "img": "thumbnail/video-thumb-4.jpg",
+    "profile": "thumbnail/profile-4.png",
+    "name": "Big 4 Auditor Financial Analyst",
+    "description": "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan  kurikulum terbaik",
+    "userName": "Jenna Ortega",
+    "userRole": "Senior Accountant di Gojek",
+    "rating": 3.5,
+    "price": 300000
+  },
+  {
+    "id": 4,
+    "category": "Bisnis",
+    "img": "thumbnail/video-thumb-5.jpg",
+    "profile": "thumbnail/profile-5.png",
+    "name": "Big 4 Auditor Financial Analyst",
+    "description": "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan  kurikulum terbaik",
+    "userName": "Jenna Ortega",
+    "userRole": "Senior Accountant di Gojek",
+    "rating": 3.5,
+    "price": 300000
+  },
+  {
+    "id": 4,
+    "category": "Desain",
+    "img": "thumbnail/video-thumb-6.jpg",
+    "profile": "thumbnail/profile-6.png",
+    "name": "Big 4 Auditor Financial Analyst",
+    "description": "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan  kurikulum terbaik",
+    "userName": "Jenna Ortega",
+    "userRole": "Senior Accountant di Gojek",
+    "rating": 3.5,
+    "price": 300000
+  },
+  {
+    "id": 4,
+    "category": "Pemasaran",
+    "img": "thumbnail/video-thumb-7.jpg",
+    "profile": "thumbnail/profile-7.png",
+    "name": "Big 4 Auditor Financial Analyst",
+    "description": "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan  kurikulum terbaik",
+    "userName": "Jenna Ortega",
+    "userRole": "Senior Accountant di Gojek",
+    "rating": 3.5,
+    "price": 300000
+  },
+  {
+    "id": 4,
+    "category": "Desain",
+    "img": "thumbnail/video-thumb-8.jpg",
+    "profile": "thumbnail/profile-8.png",
+    "name": "Big 4 Auditor Financial Analyst",
+    "description": "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan  kurikulum terbaik",
+    "userName": "Jenna Ortega",
+    "userRole": "Senior Accountant di Gojek",
+    "rating": 3.5,
+    "price": 300000
+  },
+  {
+    "id": 4,
+    "category": "Bisnis",
+    "img": "thumbnail/video-thumb-9.jpg",
+    "profile": "thumbnail/profile-1.png",
+    "name": "Big 4 Auditor Financial Analyst",
+    "description": "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan  kurikulum terbaik",
+    "userName": "Jenna Ortega",
+    "userRole": "Senior Accountant di Gojek",
+    "rating": 3.5,
+    "price": 300000
+  }
+]
